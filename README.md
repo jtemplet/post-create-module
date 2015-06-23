@@ -16,4 +16,6 @@ This is currently a work in progress, here are some of the intended features
 * create a travis file
 * depending on your license, create a license file
 
+# Changelog
+
 [![NPM](https://nodei.co/npm/post-create-module.png)](https://nodei.co/npm/post-create-module/)
